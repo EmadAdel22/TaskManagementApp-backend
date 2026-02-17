@@ -21,16 +21,10 @@ namespace TaskManagement.Controllers
             {
                 _context = context;
             }
-        [Authorize]
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
-
-            var tasks = await _context.Tasks
-                                      .Where(t => t.Id == userId)
-                                      .ToListAsync();
-
+            var tasks = await _context.Tasks.ToListAsync();
             return Ok(tasks);
         }
 

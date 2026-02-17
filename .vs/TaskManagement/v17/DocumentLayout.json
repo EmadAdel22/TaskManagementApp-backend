@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\MASA\\source\\repos\\TaskManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|solutionrelative:helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC1C39CB-6360-46AF-8242-67B0DD0AD7DE}|TaskManagement.csproj|c:\\users\\masa\\source\\repos\\taskmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T17:02:03.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T17:02:03.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "jwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\MASA\\source\\repos\\TaskManagement\\helpers\\jwtSettings.cs",
               "RelativeDocumentMoniker": "helpers\\jwtSettings.cs",
@@ -63,18 +62,17 @@
               "RelativeToolTip": "helpers\\jwtSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T16:41:52.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T16:41:52.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MASA\\source\\repos\\TaskManagement\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\MASA\\source\\repos\\TaskManagement\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-13T16:34:06.394Z",
               "EditorCaption": ""
@@ -87,14 +85,14 @@
               "RelativeDocumentMoniker": "Models\\user.cs",
               "ToolTip": "C:\\Users\\MASA\\source\\repos\\TaskManagement\\Models\\user.cs",
               "RelativeToolTip": "Models\\user.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T16:09:17.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MASA\\source\\repos\\TaskManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -107,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\MASA\\source\\repos\\TaskManagement\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
               "ToolTip": "C:\\Users\\MASA\\source\\repos\\TaskManagement\\Controllers\\TasksController.cs",
               "RelativeToolTip": "Controllers\\TasksController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T11:24:48.581Z",
               "EditorCaption": ""
@@ -126,7 +124,7 @@
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\MASA\\source\\repos\\TaskManagement\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBUAAAA1AAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAD4vzYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T11:16:49.314Z",
               "EditorCaption": ""
