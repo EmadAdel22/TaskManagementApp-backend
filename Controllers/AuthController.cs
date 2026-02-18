@@ -38,7 +38,7 @@ namespace TaskManagement.Controllers
 
                 _context.Users.Add(user);
                 await _context.SaveChangesAsync();
-                return Ok(user);
+                return Ok("user created");
             }
 
             [HttpPost("login")]
